@@ -1,3 +1,3 @@
-Team Name: We Are Girls
-Team Member: Sarah Marques bgq15 wgm34
+Team Name: We Are Girl
+Team Member: bgq15, wgm34
 
