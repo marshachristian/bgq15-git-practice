@@ -1,4 +1,4 @@
-Name: Marsha bgq15
+Name: bgq15 Marsha 
 Hobby: Reading and playing video games
 Goal: Get better at using Github and coding
 
